@@ -1,3 +1,5 @@
+'use strict'
+
 (function() {
   var wrap,
     __slice = [].slice;
