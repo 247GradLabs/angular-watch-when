@@ -1,4 +1,6 @@
 {
+  "name" : "angular-watch-when",
+  "version" : "0.1.0",
   "devDependencies": {
     "grunt-karma": "^0.8.3",
     "grunt": "^0.4.5",
