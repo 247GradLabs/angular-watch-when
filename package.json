@@ -15,5 +15,5 @@
   "scripts": {
   	"test": "./node_modules/.bin/grunt karma"
   },
-  "main": "dist/whatchWhen.js"
+  "main": "dist/watchWhen.js"
 }
